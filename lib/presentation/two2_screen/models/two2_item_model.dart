@@ -1,0 +1,1 @@
+class Two2ItemModel { }
